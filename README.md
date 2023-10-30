@@ -1,4 +1,4 @@
 <h1>ABOUT</h1>
-<title> first repo</title>
-<body>hi is btech student persuninng btech form noida international universty</body>
+<h2> first repo</h2>
+<p>hi is btech student persuninng btech form noida international universty</p>
 
